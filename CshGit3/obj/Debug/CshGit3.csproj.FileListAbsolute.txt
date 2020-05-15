@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\CshGit3\CshGit3\bin\Debug\CshGit3.exe.config
+C:\Users\acer\source\repos\CshGit3\CshGit3\bin\Debug\CshGit3.exe
+C:\Users\acer\source\repos\CshGit3\CshGit3\bin\Debug\CshGit3.pdb
+C:\Users\acer\source\repos\CshGit3\CshGit3\obj\Debug\CshGit3.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\CshGit3\CshGit3\obj\Debug\CshGit3.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\CshGit3\CshGit3\obj\Debug\CshGit3.exe
+C:\Users\acer\source\repos\CshGit3\CshGit3\obj\Debug\CshGit3.pdb
